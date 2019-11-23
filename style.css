@@ -43,11 +43,10 @@ aside {
 }
 
 article {
-    position: relative;
     top: -165px;
     right: -40px;
     bottom: 20px;
-    left: 10px
+    left: 10px;
     clear: both;
     width: 430px; 
     color: #ebebeb; 
@@ -55,6 +54,14 @@ article {
     border: 1px solid: black;
     float: left;
     overflow: auto;
+}
+
+.artlist {
+    background-color: #ebebeb;
+    color: #777;
+    margin-left: 10px;
+    margin-right: 10px;
+     
 }
 
 footer {
