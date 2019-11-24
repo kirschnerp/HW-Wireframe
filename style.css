@@ -41,9 +41,9 @@ nav {
     
 aside {
     float: left;
-    column-width: 410px;
+    column-width: 430px;
     height: 200px;
-    margin-left: 35px;
+    margin-left: 15px;
 }
 
 article {
